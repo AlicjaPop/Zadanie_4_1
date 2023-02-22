@@ -3,3 +3,4 @@ def is_palindrom(word):
         return True
     else:
         return False
+print(is_palindrom("kot"))
